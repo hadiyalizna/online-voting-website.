@@ -1,0 +1,16 @@
+body{
+    background-color: #dbecf5;    
+    }
+ h1{
+        color: #135D66;
+    }
+    .button {
+        color: #699696;
+        background-color: #82bfb3;
+        font-size: 19px;
+        cursor: pointer
+    }
+    button:hover {
+        color: #455f5f;
+        background-color: #d8eeee;
+    }
